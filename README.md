@@ -1,2 +1,18 @@
-# bookmyshow-checkout-bot
-BookMyShow MY/SG/ID Checkout Bot
+# BookMyShow MY/SG/ID Checkout Bot
+A browser-based automation solution for sites like BookMyShow (in Malaysia, Singapore, Indonesia, or similar).
+
+## How It Works?
+- Access the locked seat with just a click on the link.
+  
+  [![](https://github.com/user-attachments/assets/e501a6e2-7f1d-4e02-89ee-d95342d3a593)](#)
+
+## Available Pricing
+- **On-Demand**
+  - Providing only the event, targeted area and quantity to us. We will do the rest for you.
+  
+- **Full Source Bot**:
+  - Access to the complete source code, including the steps to set up and operate the bot.
+  - Clone, modify, and use it however you want.
+
+## Contact
+📫 How to reach me: hj@ganhj.dev
