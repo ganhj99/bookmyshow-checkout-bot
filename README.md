@@ -25,3 +25,4 @@ A browser-based automation solution for sites like BookMyShow (in Malaysia, Sing
 - [starplanet.bigtix.io](https://starplanet.bigtix.io/)
 - [mmic.bigtix.io](https://mmic.bigtix.io/)
 - [lolasia.bigtix.io](https://lolasia.bigtix.io/)
+- [biztmgptix.bigtix.io](https://biztmgptix.bigtix.io/)
