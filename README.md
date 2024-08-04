@@ -1,5 +1,5 @@
 # BookMyShow MY/SG/ID Checkout Bot
-A browser-based automation solution for sites like BookMyShow (in Malaysia, Singapore, Indonesia, or similar).
+A browser-based and/or HTTP-request based automation solution for sites like BookMyShow (in Malaysia, Singapore, Indonesia, or similar).
 
 ## How It Works?
 - Choose from a pool of locked seat selection.
