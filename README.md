@@ -21,7 +21,9 @@ A browser-based and/or HTTP-request based automation solution for sites like Boo
 [![](https://github.com/user-attachments/assets/256b8d37-6f4d-4a85-94a6-2a02e5f80970)](#)
 
 ## Contact
-📫 How to reach me: hj@ganhj.dev
+📫 How to reach me: 
+- Email: hj@ganhj.dev
+- Discord: crazyrex
 
 ## List of Working Sites:
 - [my.bookmyshow.com](https://my.bookmyshow.com/)
